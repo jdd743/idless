@@ -1,0 +1,12 @@
+body {
+	background-color: red;
+}
+
+#logo {
+	color: red;
+}
+
+.timerbutton {
+	border-radius: 0px;
+	border: transparent;
+}
